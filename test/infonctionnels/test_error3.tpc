@@ -1,0 +1,4 @@
+int 3(void){
+	int ohlala = 'a';
+	return 0;
+}
